@@ -1,0 +1,11 @@
+
+span#space {
+    padding-left:100px;
+}
+
+div#counter_bar {
+    background-color: blue;
+    height: 50px;
+    width:100px;
+    margin-left:10px;
+}
